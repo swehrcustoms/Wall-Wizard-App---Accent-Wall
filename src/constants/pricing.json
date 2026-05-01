@@ -1,0 +1,14 @@
+[
+  { "material_key": "1x4-pine-8ft",    "display_name": "1x4 Select Pine 8ft",     "hd_price": 12.98, "lowes_price": 11.97, "menards_price": 11.49, "unit": "each" },
+  { "material_key": "1x6-pine-8ft",    "display_name": "1x6 Pine 8ft",            "hd_price": 15.47, "lowes_price": 14.98, "menards_price": 13.99, "unit": "each" },
+  { "material_key": "1x8-pine-8ft",    "display_name": "1x8 Pine 8ft",            "hd_price": 19.98, "lowes_price": 18.98, "menards_price": 17.99, "unit": "each" },
+  { "material_key": "1x12-pine-8ft",   "display_name": "1x12 Pine 8ft",           "hd_price": 35.00, "lowes_price": 34.00, "menards_price": 32.50, "unit": "each" },
+  { "material_key": "1x2-furring-8ft", "display_name": "1x2 Furring 8ft",         "hd_price": 4.98,  "lowes_price": 4.49,  "menards_price": 3.99,  "unit": "each" },
+  { "material_key": "1x3-poplar-8ft",  "display_name": "1x3 Poplar 8ft",          "hd_price": 8.99,  "lowes_price": 8.49,  "menards_price": 7.99,  "unit": "each" },
+  { "material_key": "1x8-shiplap-12ft","display_name": "1x8 Shiplap Pine 12ft",   "hd_price": 22.50, "lowes_price": 21.99, "menards_price": 20.99, "unit": "each" },
+  { "material_key": "mdf-quarter-4x8", "display_name": "1/4\" MDF Sheet 4x8",     "hd_price": 29.98, "lowes_price": 28.49, "menards_price": 26.99, "unit": "each" },
+  { "material_key": "mdf-half-4x8",    "display_name": "1/2\" MDF Sheet 4x8",     "hd_price": 52.00, "lowes_price": 50.00, "menards_price": 47.99, "unit": "each" },
+  { "material_key": "adhesive-10oz",   "display_name": "Construction Adhesive 10oz","hd_price": 5.98, "lowes_price": 5.49,  "menards_price": 4.99,  "unit": "each" },
+  { "material_key": "paint-1gal",      "display_name": "Paint 1gal Interior",      "hd_price": 28.99, "lowes_price": 27.99, "menards_price": 26.99, "unit": "each" },
+  { "material_key": "brad-nails-box",  "display_name": "Brad Nails 18ga 2in box", "hd_price": 12.50, "lowes_price": 11.99, "menards_price": 10.99, "unit": "each" }
+]

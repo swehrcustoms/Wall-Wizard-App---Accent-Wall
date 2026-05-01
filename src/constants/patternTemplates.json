@@ -1,0 +1,262 @@
+[
+  {
+    "key": "chevron-gray-modern",
+    "name": "Chevron Gray Modern",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "chevron",
+      "params": { "spacing_in": 12, "angle_deg": 45, "thickness_in": 0.75, "direction": "up", "mirror": false },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x4 Select Pine 8ft", "qty": 24, "length_in": 96, "unit_price": 12.98, "source": "hd", "total": 311.52 },
+      { "name": "Construction Adhesive 10oz", "qty": 4, "length_in": null, "unit_price": 5.98, "source": "hd", "total": 23.92 }
+    ],
+    "pricing": { "cost": 335.44, "margin": 0.4, "labor_hrs": 8, "labor_rate": 50, "client_price": 1225.73, "tax": 84.27, "profit": 490.29 }
+  },
+  {
+    "key": "zigzag-geometric",
+    "name": "Zigzag Geometric",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "zigzag",
+      "params": { "spacing_in": 10, "angle_deg": 60, "thickness_in": 0.75 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x4 MDF Trim 8ft", "qty": 22, "length_in": 96, "unit_price": 10.49, "source": "hd", "total": 230.78 },
+      { "name": "Brad Nails 18ga 2in box", "qty": 1, "length_in": null, "unit_price": 12.50, "source": "hd", "total": 12.50 }
+    ],
+    "pricing": { "cost": 243.28, "margin": 0.4, "labor_hrs": 8, "labor_rate": 50, "client_price": 1072.13, "tax": 73.71, "profit": 428.85 }
+  },
+  {
+    "key": "board-batten-classic",
+    "name": "Board & Batten Classic",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "board-batten",
+      "params": { "vertical_spacing_in": 16, "batten_w_in": 3.5, "thickness_in": 0.75, "include_chair_rail": true, "rail_height_in": 36 },
+      "layers": { "boards": true, "battens": true, "rail": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x8 Pine 8ft", "qty": 12, "length_in": 96, "unit_price": 19.98, "source": "hd", "total": 239.76 },
+      { "name": "1x4 Pine 8ft (battens)", "qty": 16, "length_in": 96, "unit_price": 12.98, "source": "hd", "total": 207.68 }
+    ],
+    "pricing": { "cost": 447.44, "margin": 0.4, "labor_hrs": 10, "labor_rate": 50, "client_price": 1579.07, "tax": 108.56, "profit": 631.63 }
+  },
+  {
+    "key": "shiplap-gray-minimal",
+    "name": "Gray Shiplap Minimal",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "shiplap",
+      "params": { "board_w_in": 7.25, "overlap_in": 1, "orientation": "horizontal" },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x8 Shiplap Pine 12ft", "qty": 14, "length_in": 144, "unit_price": 22.50, "source": "hd", "total": 315.00 },
+      { "name": "Paint 1gal interior", "qty": 2, "length_in": null, "unit_price": 28.99, "source": "hd", "total": 57.98 }
+    ],
+    "pricing": { "cost": 372.98, "margin": 0.4, "labor_hrs": 8, "labor_rate": 50, "client_price": 1288.30, "tax": 88.57, "profit": 515.32 }
+  },
+  {
+    "key": "herringbone-premium",
+    "name": "Herringbone Premium",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "herringbone",
+      "params": { "tile_w_in": 6, "tile_h_in": 24, "angle_deg": 45 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x3 Poplar 8ft", "qty": 36, "length_in": 96, "unit_price": 8.99, "source": "hd", "total": 323.64 }
+    ],
+    "pricing": { "cost": 323.64, "margin": 0.4, "labor_hrs": 12, "labor_rate": 50, "client_price": 1539.40, "tax": 105.83, "profit": 615.76 }
+  },
+  {
+    "key": "geometric-hexagon",
+    "name": "Geometric Hexagon",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "hexagon",
+      "params": { "size_in": 8 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1/4 MDF Sheet 4x8", "qty": 5, "length_in": 96, "unit_price": 29.98, "source": "hd", "total": 149.90 },
+      { "name": "1x2 Furring 8ft", "qty": 20, "length_in": 96, "unit_price": 4.98, "source": "hd", "total": 99.60 }
+    ],
+    "pricing": { "cost": 249.50, "margin": 0.4, "labor_hrs": 10, "labor_rate": 50, "client_price": 1249.17, "tax": 85.88, "profit": 499.67 }
+  },
+  {
+    "key": "vertical-slat",
+    "name": "Vertical Slat",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "vertical-slat",
+      "params": { "slat_w_in": 1.5, "gap_in": 1.5, "thickness_in": 0.75 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x2 Furring 8ft", "qty": 48, "length_in": 96, "unit_price": 4.98, "source": "hd", "total": 239.04 }
+    ],
+    "pricing": { "cost": 239.04, "margin": 0.4, "labor_hrs": 8, "labor_rate": 50, "client_price": 1065.07, "tax": 73.22, "profit": 426.03 }
+  },
+  {
+    "key": "faux-beam-shadow",
+    "name": "Faux Beam Shadow",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "faux-beam",
+      "params": { "beam_w_in": 5.5, "spacing_in": 24, "orientation": "vertical" },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x6 Pine 8ft", "qty": 18, "length_in": 96, "unit_price": 15.47, "source": "hd", "total": 278.46 }
+    ],
+    "pricing": { "cost": 278.46, "margin": 0.4, "labor_hrs": 8, "labor_rate": 50, "client_price": 1130.77, "tax": 77.74, "profit": 452.31 }
+  },
+  {
+    "key": "wave-organic",
+    "name": "Wave Organic",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "wave",
+      "params": { "amplitude_in": 4, "period_in": 24, "board_w_in": 0.75 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x4 Trim 8ft", "qty": 25, "length_in": 96, "unit_price": 12.98, "source": "hd", "total": 324.50 }
+    ],
+    "pricing": { "cost": 324.50, "margin": 0.4, "labor_hrs": 14, "labor_rate": 50, "client_price": 1707.50, "tax": 117.39, "profit": 683.00 }
+  },
+  {
+    "key": "arched-niche",
+    "name": "Arched Niche",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "arched-niche",
+      "params": { "niche_radius_in": 18, "grid_spacing_in": 12 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1/4 MDF Sheet 4x8", "qty": 6, "length_in": 96, "unit_price": 29.98, "source": "hd", "total": 179.88 }
+    ],
+    "pricing": { "cost": 179.88, "margin": 0.4, "labor_hrs": 12, "labor_rate": 50, "client_price": 1299.80, "tax": 89.36, "profit": 519.92 }
+  },
+  {
+    "key": "industrial-pipe",
+    "name": "Industrial Pipe",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "industrial",
+      "params": { "plank_w_in": 8, "pipe_reveal_in": 1 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x8 Pine 8ft", "qty": 14, "length_in": 96, "unit_price": 19.98, "source": "hd", "total": 279.72 }
+    ],
+    "pricing": { "cost": 279.72, "margin": 0.4, "labor_hrs": 8, "labor_rate": 50, "client_price": 1132.87, "tax": 77.88, "profit": 453.15 }
+  },
+  {
+    "key": "fluted-minimal",
+    "name": "Fluted Minimal",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "fluted",
+      "params": { "flute_w_in": 1.5, "spacing_in": 4, "depth_in": 0.5 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x2 Furring 8ft", "qty": 32, "length_in": 96, "unit_price": 4.98, "source": "hd", "total": 159.36 }
+    ],
+    "pricing": { "cost": 159.36, "margin": 0.4, "labor_hrs": 8, "labor_rate": 50, "client_price": 932.27, "tax": 64.09, "profit": 372.91 }
+  },
+  {
+    "key": "diamond-parquet",
+    "name": "Diamond Parquet",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "diamond",
+      "params": { "size_in": 6, "angle_deg": 45 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x3 Poplar 8ft", "qty": 28, "length_in": 96, "unit_price": 8.99, "source": "hd", "total": 251.72 }
+    ],
+    "pricing": { "cost": 251.72, "margin": 0.4, "labor_hrs": 14, "labor_rate": 50, "client_price": 1586.20, "tax": 109.05, "profit": 634.48 }
+  },
+  {
+    "key": "ledge-shelf-wall",
+    "name": "Ledge Shelf Wall",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "ledge-shelf",
+      "params": { "shelf_depth_in": 12, "spacing_in": 24 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x12 Pine 8ft", "qty": 10, "length_in": 96, "unit_price": 35.00, "source": "hd", "total": 350.00 }
+    ],
+    "pricing": { "cost": 350.00, "margin": 0.4, "labor_hrs": 10, "labor_rate": 50, "client_price": 1416.67, "tax": 97.40, "profit": 566.67 }
+  },
+  {
+    "key": "brick-mimic",
+    "name": "Textured Brick Mimic",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "brick",
+      "params": { "brick_w_in": 8, "brick_h_in": 4, "offset_in": 4 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1/2 MDF Sheet 4x8", "qty": 4, "length_in": 96, "unit_price": 52.00, "source": "hd", "total": 208.00 }
+    ],
+    "pricing": { "cost": 208.00, "margin": 0.4, "labor_hrs": 12, "labor_rate": 50, "client_price": 1346.67, "tax": 92.59, "profit": 538.67 }
+  },
+  {
+    "key": "asym-zig",
+    "name": "Asymmetric Zig",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "asym-zig",
+      "params": { "base_spacing_in": 12, "variance_in": 3, "seed": 42 },
+      "layers": { "boards": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x4 Pine 8ft", "qty": 20, "length_in": 96, "unit_price": 12.98, "source": "hd", "total": 259.60 }
+    ],
+    "pricing": { "cost": 259.60, "margin": 0.4, "labor_hrs": 10, "labor_rate": 50, "client_price": 1266.00, "tax": 87.04, "profit": 506.40 }
+  },
+  {
+    "key": "wainscot-chair-rail",
+    "name": "Wainscot Chair Rail",
+    "type": "template",
+    "wall_dims": { "width_in": 144, "height_in": 96 },
+    "pattern": {
+      "type": "wainscot",
+      "params": { "wainscot_height_in": 48, "rail_w_in": 5.5, "panel_count": 6 },
+      "layers": { "boards": true, "rail": true, "trim": true, "baseboard": true, "background": true }
+    },
+    "materials": [
+      { "name": "1x10 Panels 8ft", "qty": 12, "length_in": 96, "unit_price": 19.98, "source": "hd", "total": 239.76 }
+    ],
+    "pricing": { "cost": 239.76, "margin": 0.4, "labor_hrs": 10, "labor_rate": 50, "client_price": 1232.93, "tax": 84.76, "profit": 493.17 }
+  }
+]
